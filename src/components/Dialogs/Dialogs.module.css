@@ -1,0 +1,26 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+.dialogsItems {
+    padding: 10px;
+    color: white;
+}
+
+.dialogsItems .active {
+    color: gold;
+}
+
+.massages {
+    padding: 10px;
+}
+
+.send{
+    width: 50px;
+    padding: 5px 5px;
+    font: 15px "Fira Sans";
+    text-align: center;
+    background-color: #bae4fd;
+    border: 2px;
+    border-radius: 5px;
+}
