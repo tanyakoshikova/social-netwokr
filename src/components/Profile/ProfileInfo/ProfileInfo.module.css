@@ -1,0 +1,48 @@
+.descriptionBlock {
+    padding-left: 100px;
+}
+
+.mainPhoto {
+    margin-bottom: 60px;
+    display: inline-block;
+    max-width: 200px;
+    border-radius: 150px;
+}
+
+.info{
+    font: 18px "Fira Sans";
+    margin-top: 20px;
+    display: inline-block;
+    padding: 10px 30px;
+    text-align: left;
+    text-decoration: none;
+    color: black;
+    background-color: #ddf2fe;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px #b0b0b0;
+    cursor: pointer;
+    outline: none;
+
+
+}
+
+.contact{
+  padding-left: 15px;
+  font: italic 13px "Fira Sans";
+}
+
+.photo{
+    font-size: 11px;
+}
+
+.editMode{
+    width: 50px;
+    padding: 5px 5px;
+    font: 15px "Fira Sans";
+    text-align: center;
+    background-color: #bae4fd;
+    border: 2px;
+    border-radius: 5px;
+
+}
