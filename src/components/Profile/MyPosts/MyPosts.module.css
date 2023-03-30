@@ -1,0 +1,17 @@
+.postsBlock {
+    padding: 10px;
+}
+
+.posts {
+    margin-top: 10px ;
+
+}
+.addPost{
+    width: 100px;
+    padding: 5px 5px;
+    font: 15px "Fira Sans";
+    text-align: center;
+    background-color: #bae4fd;
+    border: 2px;
+    border-radius: 5px;
+}
